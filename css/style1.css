@@ -851,6 +851,7 @@ footer {
 @media (max-width: 390px) {
     .container {
         margin: 15px 10px 0 10px;
+        max-width: 390px;
     }
 
     .header {
