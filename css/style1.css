@@ -1,18 +1,18 @@
 @font-face {
     font-family: 'bahiana-regular';
-    src: url(../fonts/Bahiana/Bahiana/Bahiana-Regular.ttf);
+    src: url(../Bahiana/Bahiana-Regular.ttf);
 }
 @font-face {
     font-family: 'roboto-regular';
-    src: url(../fonts/Roboto_Slab/Roboto_Slab/static/RobotoSlab-Regular.ttf);
+    src: url(../Roboto_Slab/static/RobotoSlab-Regular.ttf);
 }
 @font-face {
     font-family: 'roboto-bold';
-    src: url(../fonts/Roboto_Slab/Roboto_Slab/static/RobotoSlab-Bold.ttf);
+    src: url(../Roboto_Slab/static/RobotoSlab-Bold.ttf);
 }
 @font-face {
     font-family: 'roboto-semibold';
-    src: url(../fonts/Roboto_Slab/Roboto_Slab/static/RobotoSlab-SemiBold.ttf);
+    src: url(../Roboto_Slab/static/RobotoSlab-SemiBold.ttf);
 }
 
 body {
